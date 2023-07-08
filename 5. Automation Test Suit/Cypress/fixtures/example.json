@@ -1,0 +1,11 @@
+{
+  "appHomeURL": "https://qa-task.immedis.com/",
+  "appUsersURL": "https://qa-task.immedis.com/Users",
+  "appBooksURL": "https://qa-task.immedis.com/Books",
+  "appGetABookURL": "https://qa-task.immedis.com/GetBook",
+  "username": "admin",
+  "password": "123456",
+  "userNameForEditing": "immedis",
+  "userNameForDetails": "immedis",
+  "userNameForDelete": "dsvI#Ji#f5"
+}
